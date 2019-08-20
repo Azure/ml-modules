@@ -1,3 +1,17 @@
+# Machine Learning Modules
+Azure Machine Learning built-in modules.
+### Module Categories:
+* Data Format Conversions
+* Data Input and Output
+* Data Transformation
+* Feature Selection
+* Machine Learning
+* OpenCV Library modules
+* R Language Modules
+* Statistical Functions
+* Text Analytics
+* Time Series
+* Web Service
 
 # Contributing
 
